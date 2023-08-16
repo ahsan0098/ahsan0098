@@ -1,11 +1,8 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 <h1 align="center">Hi 👋, I'm Ahsan Ali</h1>
 <h3 align="center">A passionate backend engineer from Pakistan. I love PHP and Laravel also working with front-end technolog.ies like React, Vue.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahsan0098&label=Profile%20views&color=0e75b6&style=flat" alt="ahsan0098" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahsan0098" alt="ahsan0098" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<p align="left"> <a href="https://twitter.com/sheikhistan0098" target="blank"><img src="https://img.shields.io/twitter/follow/sheikhistan0098?logo=twitter&style=for-the-badge" alt="sheikhistan0098" /></a> </p>
 
 - 🌱 I’m currently learning **React, Vue.**
 
@@ -15,7 +12,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/sheikhistan0098" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sheikhistan0098" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ahsanali0098/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahsanali0098/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21085981/sheikh98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21085981/sheikh98" height="30" width="40" /></a>
+<a href="https://instagram.com/sheikh_ahsan_ali_98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sheikh_ahsan_ali_98" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
