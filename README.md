@@ -1,7 +1,7 @@
-[![Header](./github-header-image.png)]
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Ahsan Ali</h1>
 <h3 align="center">A passionate backend engineer from Pakistan. I love PHP and Laravel also working with front-end technolog.ies like React, Vue.</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://images.app.goo.gl/MFUFMsQc6v35j9176)">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <a href="https://twitter.com/sheikhistan0098" target="blank"><img src="https://img.shields.io/twitter/follow/sheikhistan0098?logo=twitter&style=for-the-badge" alt="sheikhistan0098" /></a> </p>
 
 - 🌱 I’m currently learning **React, Vue.**
