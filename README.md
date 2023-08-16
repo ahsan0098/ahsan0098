@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ahsan Ali</h1>
 <h3 align="center">A passionate backend engineer from Pakistan. I love PHP and Laravel also working with front-end technolog.ies like React, Vue.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahsan0098&label=Profile%20views&color=0e75b6&style=flat" alt="ahsan0098" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahsan0098" alt="ahsan0098" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **React, Vue.**
 
 - 💬 Ask me about **PHP, Laravel, livewire.**
-
-- 📫 How to reach me **I**
 
 - ⚡ Fun fact **I am addicted to codding and spend most of my time with it**
 
