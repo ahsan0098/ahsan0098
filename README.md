@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Ahsan Ali</h1>
 <h3 align="center">A passionate backend engineer from Pakistan. I love PHP and Laravel also working with front-end
-    technolog.ies like React, Vue.</h3>
+    technologies like React, Vue.</h3>
 <img align="right" alt="Coding" width="400" src="./mygif.gif">
 <p align="left"> <a href="https://twitter.com/sheikhistan0098" target="blank"><img
             src="https://img.shields.io/twitter/follow/sheikhistan0098?logo=twitter&style=for-the-badge"
