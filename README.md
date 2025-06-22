@@ -2,10 +2,14 @@
   <img src="./github-header-image (1).png" alt="Header" />
 </p>
 </br>
+<p align="center" width="100%">
+  <img src="./pacman.gif" alt="Pacman" width="100%" height="25px" />
+</p>
 </br>
 <p align="center">
   <b><i>Backend Engineer</i> & <i>Laravel Artisan</i> from 🇵🇰 Pakistan</b><br><br>
-  Passionate about building robust, scalable, and secure web applications. My journey started with <b>PHP</b> and <b>Laravel</b>, where I mastered the art of crafting elegant APIs and backend systems.<br><br>
+  Passionate about building robust, scalable, and secure web applications. My journey started with <b>PHP</b> and <b>Laravel</b>, where I mastered the art of crafting elegant APIs and backend systems.</br>
+  </br>
   I also enjoy working with modern front-end frameworks like <b>React</b>, exploring the asynchronous world of <b>Node.js</b>, and experimenting with the simplicity and power of <b>Go</b> for concurrent programming.<br><br>
   Obsessed with clean code, performance, and constant learning. Whether it's architecting a microservice, optimizing SQL queries, or deploying with Docker — I’m all in. 💻✨<br><br>
   🌐 <a href="https://ahsan-ali-sheikh.netlify.app" target="_blank"><b>Visit My Portfolio</b></a>
@@ -60,9 +64,7 @@
   <a href="https://stackoverflow.com/users/21085981/sheikh98" target="_blank">
     <img src="https://img.shields.io/static/v1?message=StackOverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&style=for-the-badge" height="25" alt="Stack Overflow badge" />
   </a>
-  <a href="https://instagram.com/sheikh_ahsan_ali98" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="Instagram badge" />
-  </a>
+ 
    <a href="https://discord.com/users/1343810492124106782" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
