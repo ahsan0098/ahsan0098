@@ -14,33 +14,39 @@
 </br>
 </br>
 
-<div align="center">
+<div align="center" style="padding: 0px; max-width: 1000px; margin: auto;">
+
+  <!-- Row 1 -->
   <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo" />
-  <img width="12" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="laravel logo" />
-  <img width="12" />
-  
+  <img width="8" />
+  <img src="https://raw.githubusercontent.com/ahsan0098/ahsan0098/main/livewire.svg" height="60" alt="livewire logo" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
-  <img width="12" />
-  
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo" />
-  <img width="12" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
-  <img width="12" />
-  
+  <img width="8" />
+   <img src="https://raw.githubusercontent.com/ahsan0098/ahsan0098/main/jQuery.png" height="60" alt="javascript logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
-  <img width="12" />
-  
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
-  <img width="12" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo" />
-  <img width="12" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
-  <img width="12" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
+  
+  
 </div>
+
+
 
 
 ###
